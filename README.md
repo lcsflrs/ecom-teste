@@ -1,7 +1,7 @@
 # 🧪 Teste Técnico – Estágio em Engenharia de Software
 
 ## 🎯 Objetivo
-Consumir a [API do The Movie DB (TMDb)](https://developer.themoviedb.org/reference/intro), processar os dados dos **250 filmes mais bem avaliados**, gerar métricas e disponibilizá-las de forma organizada.
+Consumir a [API do The Movie DB (TMDb)](https://developer.themoviedb.org/docs/getting-started), processar os dados dos **250 filmes mais bem avaliados**, gerar métricas e disponibilizá-las de forma organizada.
 
 ---
 
