@@ -42,8 +42,8 @@ Consumir a [API do The Movie DB (TMDb)](https://developer.themoviedb.org/docs/ge
 ### 4. Quantidade de Filmes por Ano – _4 pontos_
 - Mostrar a distribuição dos filmes por ano de lançamento, **ordenado cronologicamente**
 
-### 5. Quantos e quais desses filmes estão entre os Trending nos últimos 6 meses – _5 pontos_
-- Obter os filmes em alta (trending-movies)
+### 5. Quantos e quais desses filmes estão entre os Trending nas 20 primeiras páginas – _5 pontos_
+- Obter os filmes em alta (trending-movies) nas **20 primeiras páginas** de uma consulta **SEMANAL** (week)
 - Verificar **quantos dos top 250 aparecem nos trendings**
 - Exibir essa quantidade e listar os nomes
 
